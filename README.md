@@ -2,18 +2,18 @@
 First Project of Winter Quarter 2024 ECS34
 This Project is purely completed by student Xiaohang Cheng.
 
-##Project Status
+##Project Status<br />
 Past all g-tests and successfully functioning.
 
-##Known Issues
+##Known Issues<br />
 No issues so far
 
 ##Code References
-*[ECS 034 WQ 2024]\n
-Makefile uses Professor Nitta's code given in a discussion. 
-*[Edit distance]
-https://en.wikipedia.org/wiki/Edit_distance#Computation
-The Editdistance function was implemented by using the algorithm provided by Wikipedia. 
+*[ECS 034 WQ 2024]<br />
+Makefile uses Professor Nitta's code given in a discussion. <br />
+*[Edit distance]<br />
+https://en.wikipedia.org/wiki/Edit_distance#Computation<br />
+The Editdistance function was implemented by using the algorithm provided by Wikipedia. <br />
 
-##Generative AI Use
+##Generative AI Use<br />
 No usage of generative AI. This project is purely completed by human intelligence.
