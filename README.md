@@ -8,7 +8,7 @@ Past all g-tests and successfully functioning.
 ##Known Issues<br />
 No issues so far
 
-##Code References
+##Code References<br />
 *[ECS 034 WQ 2024]<br />
 Makefile uses Professor Nitta's code given in a discussion. <br />
 *[Edit distance]<br />
