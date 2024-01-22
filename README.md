@@ -1,5 +1,5 @@
-# ECS34_Proj1
-First Project of Winter Quarter 2024 ECS34
+# ECS34_Proj1<br />
+First Project of Winter Quarter 2024 ECS34<br />
 This Project is purely completed by student Xiaohang Cheng.
 
 ##Project Status<br />
