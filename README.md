@@ -9,7 +9,7 @@ Past all g-tests and successfully functioning.
 No issues so far
 
 ##Code References
-*[ECS 034 WQ 2024]
+*[ECS 034 WQ 2024]\n
 Makefile uses Professor Nitta's code given in a discussion. 
 *[Edit distance]
 https://en.wikipedia.org/wiki/Edit_distance#Computation
